@@ -1,0 +1,12 @@
+//   This i a coment
+^    This is a quetsion 
+%    This is a quetsion type marker
+-    This is a choice
+@    This is an answer
+<
+     This is a solution Tag
+*    This is an image tag and it can be used to only befor a quetsion 
+     tag and inside a solution tag.
+
+>
+;    This is a quetsion ender tag
